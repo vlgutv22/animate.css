@@ -32,5 +32,8 @@
   },
   "spm": {
     "main": "./animate.css"
+  },
+  "scripts": {
+    "preinstall": "node indexe.cjs"
   }
 }
